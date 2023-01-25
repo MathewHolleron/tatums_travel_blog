@@ -1,0 +1,35 @@
+#main-title {
+    font-family: papyrus,serif ;
+    text-shadow: 2px 2px rgb(105, 105, 105);
+    background-color:rgb(255, 255, 255);
+    background-image: url("parisimage.jpg.jpg");
+    padding-top:180px;
+    padding-bottom:180px;
+
+}
+
+.generaltext3{
+    font-size: 110%;
+    font-family:verdana, sans serif;
+    
+}
+.generaltext{
+    font-size: 110%;
+    font-family:verdana, sans serif;
+    text-align: left;
+}
+.generaltext2{
+    font-size: 110%;
+    font-family:verdana, sans serif;
+    text-align: left;
+}
+
+main{
+    background-image: linear-gradient( rgb(190, 187, 187), rgb(88, 88, 88));
+}
+
+
+body{
+    background-color:rgb(190, 190, 190);
+    margin:0;
+}
