@@ -33,3 +33,15 @@ body{
     background-color:rgb(190, 190, 190);
     margin:0;
 }
+
+#img1{
+    border:10px groove rgb(128, 135, 231);
+    margin-left:30%
+    
+}
+#img2{
+    border:10px groove  rgb(8, 13, 83);
+    height:300px;
+    margin-left:27%;
+    
+}
