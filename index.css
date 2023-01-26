@@ -1,8 +1,10 @@
 #main-title {
     font-family: papyrus,serif ;
     text-shadow: 2px 2px rgb(105, 105, 105);
-    background-color:rgb(255, 255, 255);
+    background-color:rgb(190, 187, 187);
     background-image: url("parisimage.jpg.jpg");
+    background-repeat:no-repeat;
+    background-size:contain;
     padding-top:180px;
     padding-bottom:180px;
 
